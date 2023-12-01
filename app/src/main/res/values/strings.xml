@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cafes2</string>
+    <string name="tf_nombrePedido">Nombre del cliente</string>
+    <string name="tf_cafe">Bebida</string>
+    <string name="tv_header">Cafés ricos</string>
+    <string name="btn_agregar">Agregar cafe</string>
+    <string-array name="tf_bebidas">
+        <item>Americano limon</item>
+        <item>Americano espresso</item>
+        <item>Dirty Chai</item>
+        <item>Matcha frio</item>
+    </string-array>
+</resources>
